@@ -1,5 +1,8 @@
 # Library Project API
 
+<img width="1200" height="900" alt="collage (1)" src="https://github.com/user-attachments/assets/50c07f12-bef0-470f-8a85-f7738bae1773" />
+
+
 A Django REST Framework-based API for managing a library system with books and related functionality.
 
 ## Project Structure
